@@ -1,5 +1,7 @@
 # PythonLearning
-People learning python together
+Let's learn Python together and have fun
+
+![PythonFun](/pythonfun.jpg "caption1")
 
 ## Lesson 1
 In the first Lesson, we are going to be focusing on setting up the python environment, and learn about the basic input and output.
