@@ -1,6 +1,8 @@
 # PythonLearning
 People learning python together
 
+![pythonfun](/pythonfun.jpg) 
+
 ## Lesson 1
 In the first Lesson, we are going to be focusing on setting up the python environment, and learn about the basic input and output.
 
